@@ -1,0 +1,7 @@
+flask
+requests
+#numpy
+#base64
+#ffmpeg-python
+#json
+#matplotlib
